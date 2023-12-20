@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Your file path
+# File path
 file_path = '/Users/raghav/Desktop/Movies_dataset.csv'
 
 # Read the CSV file into a Pandas DataFrame
@@ -10,12 +10,12 @@ movies = pd.read_csv(file_path)
 pd.set_option('display.max_columns', None)  # Show all columns
 pd.set_option('display.max_rows', None)     # Show all rows (if needed)
 
-# # Display the first 10 rows of the DataFrame
-# print(movies.head(10))
-# print(movies.describe())
-# print(movies.info())
-# print(movies.isnull().sum())
-# print(movies.columns)
+# Display the first 10 rows of the DataFrame
+movies.head(10)
+movies.describe()
+movies.info()
+movies.isnull().sum()
+movies.columns
 
 movies = movies[['id','title','overview','genre']]
 # print(movies.head(10))
