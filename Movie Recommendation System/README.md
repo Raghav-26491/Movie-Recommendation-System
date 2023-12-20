@@ -40,7 +40,7 @@ Files
 Setup Instructions
 
 •	Clone the repository:
-•	git clone https://github.com/your_username/Movie-Recommendation-System.git
+•	git clone https://github.com/Raghav-26491/Movie-Recommendation-System.git
 
 •	Install dependencies:
 •	pip install -r requirements.txt
