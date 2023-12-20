@@ -49,5 +49,7 @@ Setup Instructions
 •	streamlit run app.py
 
 Acknowledgments
+
 The dataset is sourced from Kaggle.
+
 This project is a part of my Bharat Intern Internship Task.
