@@ -15,7 +15,7 @@ movies.head(10)
 movies.describe()
 movies.info()
 movies.isnull().sum()
-movies.columns
+movies.columns()
 
 movies = movies[['id','title','overview','genre']]
 # print(movies.head(10))
