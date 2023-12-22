@@ -119,8 +119,8 @@ df['Species'] = label_encoder.fit_transform(df['Species'])
 correlation_matrix = df.corr()
 print(correlation_matrix)
 
-# corr = df.corr()
-# # plot the heat map
+corr = df.corr()
+# plot the heat map
 fig, ax= plt.subplots(figsize=(5,4))
 sns.heatmap(corr, annot=True, ax=ax, cmap="coolwarm")
 plt.show()
