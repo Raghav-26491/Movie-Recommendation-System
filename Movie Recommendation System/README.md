@@ -53,4 +53,4 @@ This project is a part of my Bharat Intern Internship Task.
 
 Project Output Photo 
 
-<img width="1440" alt="Screenshot 2023-12-23 at 1 43 05 AM" src="https://github.com/Raghav-26491/Movie-Recommendation-System/assets/145380406/4f3e929b-c683-4624-96fc-7ad326d84f5a">
+<img width="1440" alt="Output" src="https://github.com/Raghav-26491/Movie-Recommendation-System/assets/145380406/4f3e929b-c683-4624-96fc-7ad326d84f5a">
